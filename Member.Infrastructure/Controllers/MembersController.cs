@@ -20,4 +20,4 @@ public class MembersController : ControllerBase
     {
         return Ok(this.memberService.GetAllMembers());
     }
-}Clean Architecture With ASP.NET Core WebAPI
+}
