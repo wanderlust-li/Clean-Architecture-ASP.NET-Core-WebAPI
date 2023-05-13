@@ -1,0 +1,12 @@
+D:\CleanArchitecture\Member.Domain\bin\Debug\net7.0\Member.Domain.deps.json
+D:\CleanArchitecture\Member.Domain\bin\Debug\net7.0\Member.Domain.dll
+D:\CleanArchitecture\Member.Domain\bin\Debug\net7.0\Member.Domain.pdb
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.csproj.AssemblyReference.cache
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.AssemblyInfoInputs.cache
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.AssemblyInfo.cs
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.dll
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\refint\Member.Domain.dll
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\Member.Domain.pdb
+D:\CleanArchitecture\Member.Domain\obj\Debug\net7.0\ref\Member.Domain.dll
